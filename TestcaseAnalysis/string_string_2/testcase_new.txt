@@ -1,0 +1,10 @@
+abc bcd
+cdef defg
+fgh ghi
+ghi hij
+happy appyh
+nop opq
+toy oyt
+mine inem
+uvw vwx
+wxy xyz
